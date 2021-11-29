@@ -11,7 +11,3 @@
 .field:nth-last-child(1) {
   margin-bottom: 0;
 }
-
-#age {
-  width: 65px;
-}
